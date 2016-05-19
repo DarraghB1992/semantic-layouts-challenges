@@ -1,4 +1,4 @@
-# Challenge: Media Query  :)
+# Challenge: Media Query  :) :D
 
 Continuing from the Challenge 2 from Lesson 4 
 
